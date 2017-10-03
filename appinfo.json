@@ -10,7 +10,7 @@
         "media": [
             {
                 "file": "images/menu_icon.png",
-                "menuIcon": true,
+                "menuIcon": false,
                 "name": "IMAGE_MENU_ICON",
                 "type": "bitmap"
             },
